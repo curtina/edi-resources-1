@@ -47,7 +47,7 @@ For community support and further learning as well as list of policies and right
   - [Resources for staff](https://www.mcgill.ca/hr/benefits)
 
 - Sexual Violence:
-  - [Office for Sexual Violence Response](https://www.mcgill.ca/osvrse/)
+  - [Office for Sexual Violence Response, Support, and Education](https://www.mcgill.ca/osvrse/)
     - OSVRSE provides confidential, non-judgmental and non-directional support to those who have been impacted by sexual or gender-based violence
   - [Resources for Postdoctoral Scholars](https://pgss.mcgill.ca/en/gendered-and-sexual-violence-resources)
   - [Sexual Assault Centre of McGill Students’ Society](http://www.sacomss.org/wp/)
@@ -65,10 +65,11 @@ For community support and further learning as well as list of policies and right
   - [McGill’s EDI strategic plan (2020)](https://mcgill.ca/equity/files/equity/mcgill_strategic_edi_plan_2020-20251.pdf)
   - [McGill / Canada Research Chair EDI Action Plan](https://www.mcgill.ca/apo/files/apo/crc_edi_plan_2018_tips_20181215-final_4_0.pdf)
   - [Joint Board-Senate Committee on Equity](https://www.mcgill.ca/senate/committeesofsenate/joint-board-senate-committee-equity)
-  - [Subcommittee on Racialized and Ethnic Persons](https://www.mcgill.ca/rep-equity/)
 
 - More related resources
   - [Office for Students with Disabilities](https://www.mcgill.ca/osd/)
+  - [International Student Services](https://www.mcgill.ca/internationalstudents/)
+  - [McGill Resources on Family Care](https://www.mcgill.ca/familycare/)
   - [The Office of the Dean of Students](http://mcgill.ca/deanofstudents)
   - [The Office of the Ombudsperson for Students](https://www.mcgill.ca/ombudsperson/)
     - "The Office of the Ombudsperson for Students offers confidential, informal, independent, and impartial dispute resolution services to all members of the student community by providing information, advice, intervention and referrals."
@@ -88,7 +89,11 @@ For community support and further learning as well as list of policies and right
     - [McGill Black Alumni Association](https://myalumni.mcgill.ca/s/1762/gid2/interior-connect.aspx?pgid=1610&gid=2)
     - [McGill African Students’ Society](https://massmcgill.wixsite.com/mass)
    
-  - International students:
-    - [International Student Services](https://www.mcgill.ca/internationalstudents/)
+  - Legal services:
+    - [Legal Information Clinic at McGill](https://licm.ca/)
+      - "Non-profit, student-run, bilingual and free legal information service...provides legal information, referrals, and community services to the McGill and Montreal communities, with a continuing commitment to meeting the needs of marginalized groups"
+
+
+    
 
 
